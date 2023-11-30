@@ -13,10 +13,10 @@ En las Figuras 1 y 2, se muestran las imágenes que resaltan los puntos clave de
 <table>
   <tr>
     <td align="center">
-      <img src="/ImagenesReadme/Imagen3.png" alt="Resultado 1" width="400"/>
+      <img src="/images/Puntos Clave.jpeg" alt="Resultado 1" width="400"/>
     </td>
     <td align="center">
-      <img src="/ImagenesReadme/Imagen4.png" alt="Resultado 2" width="400"/>
+      <img src="/images/Puntos Clave (imagen 1).jpeg" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
@@ -37,10 +37,10 @@ Las Figuras 3 y 4 presentan imágenes que muestran una cuadrícula de imágenes 
 <table>
   <tr>
     <td align="center">
-      <img src="/images/Imagen3.png" alt="Resultado 1" width="400"/>
+      <img src="/images/Espacio de escala (imagen 1).jpeg" alt="Resultado 1" width="400"/>
     </td>
     <td align="center">
-      <img src="/images/Imagen4.png" alt="Resultado 2" width="400"/>
+      <img src="/images/Espacio de escala.jpeg" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
@@ -61,10 +61,10 @@ En las Figuras 5 y 6, se presenta la diferencia de Gaussianas en las imágenes c
 <table>
   <tr>
     <td align="center">
-      <img src="/images/Imagen3.png" alt="Resultado 1" width="400"/>
+      <img src="/images/Diferencia de Gaussiano (imagen 1).jpeg" alt="Resultado 1" width="400"/>
     </td>
     <td align="center">
-      <img src="/images/Imagen4.png" alt="Resultado 2" width="400"/>
+      <img src="/images/Diferencia de Gausiano.jpeg" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
@@ -84,10 +84,10 @@ Las Figuras 7 y 8 representan los histogramas de orientación para la magnitud d
 <table>
   <tr>
     <td align="center">
-      <img src="/images/Imagen3.png" alt="Resultado 1" width="400"/>
+      <img src="/images/Histograma de orientacion  (imagen 1).jpeg" alt="Resultado 1" width="400"/>
     </td>
     <td align="center">
-      <img src="/images/Imagen4.png" alt="Resultado 2" width="400"/>
+      <img src="/images/Histograma de orientacion.jpeg" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
@@ -108,10 +108,10 @@ Finalmente, en las Figuras 9 y 10, se visualiza el pareo de puntos clave entre l
 <table>
   <tr>
     <td align="center">
-      <img src="/images/Imagen3.png" alt="Resultado 1" width="400"/>
+      <img src="/images/Pareo de puntos clave (imagen 1).jpeg" alt="Resultado 1" width="400"/>
     </td>
     <td align="center">
-      <img src="/images/Imagen4.png" alt="Resultado 2" width="400"/>
+      <img src="/images/Pareo de puntos clave.jpeg" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
