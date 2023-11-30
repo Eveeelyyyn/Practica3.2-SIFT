@@ -13,10 +13,10 @@ En las Figuras 1 y 2, se muestran las imágenes que resaltan los puntos clave de
 <table>
   <tr>
     <td align="center">
-      <img src="/images/Puntos Clave.jpeg" alt="Resultado 1" width="400"/>
+      <img src="/images/Puntos Clave (Primera imagen).jpeg" alt="Resultado 1" width="400"/>
     </td>
     <td align="center">
-      <img src="/images/Puntos Clave (imagen 1).jpeg" alt="Resultado 2" width="400"/>
+      <img src="/images/Puntos Clave (Segunda imagen).jpeg" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
