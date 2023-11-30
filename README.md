@@ -4,7 +4,7 @@ El algoritmo SIFT (Scale-Invariant Feature Transform) es una técnica ampliament
 En este trabajo de práctica se aplican y se desarrolla el método SIFT para la extracción de descriptores y también para la fase de pareo de puntos clave entre dos imágenes.
 
 
-## Resultados e Información
+## Resultados
 
 ### Localización de Puntos Clave
 
